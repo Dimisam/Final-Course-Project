@@ -4,7 +4,7 @@ This is a script for a basic statistical description of data about gene expressi
 
 ## Description
 
-The script can be divided into 6 part:
+The script can be divided into 6 parts:
 1. Standardization of values
 2. Principal component analysis (PCA) 
 3. T-test of every marker between two groups
