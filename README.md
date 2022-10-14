@@ -18,6 +18,7 @@ The goal of the script is two explore the differences between the two groups of 
 
 At the top of the script are mentioned the libraries need for running the script. Please make sure you have installed all of them, 
 otherwise you can install them with the command 
+
     pip install [package]
 
 ## Usage
@@ -25,7 +26,9 @@ otherwise you can install them with the command
 The script was created in Spyder 5.1.5 using Python 3.9.
 Atfer having cloned or downloaded the data on your local computer, the script can be run in an IDE like Spyder or in the Anaconda
 Prompt with the command:
+
     python genes_expression_project.py. 
+    
 This will generate 3 plots in your working folder: one for the PCA, one volcano plot and one heatmap. 
 
 ## Contributions
