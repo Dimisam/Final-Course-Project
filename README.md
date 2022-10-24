@@ -16,8 +16,8 @@ The goal of the script is two explore the differences between the two groups of 
 
 ## Installation
 
-At the top of the script are mentioned the libraries need for running the script (Pandas, Sklearn, Matplotlib, Scipy, Seaborn, statsmodels). Please make sure you have installed all of them, 
-otherwise you can install them with the command 
+At the top of the script are mentioned the libraries need for running the script (Pandas, Sklearn, Matplotlib, Scipy, Seaborn, bioinfokit, statsmodels). Please make sure you have installed all of them, 
+otherwise you can install them with the command in Spyder
 
     pip install [package]
 
