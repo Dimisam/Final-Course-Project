@@ -19,13 +19,21 @@ The goal of the script is two explore the differences between the two groups of 
 At the top of the script are mentioned the libraries need for running the script (Pandas, Sklearn, Matplotlib, Seaborn, bioinfokit, statsmodels, matplotlib-venn, adjusttext, tabulate, textwrap3). Please make sure you have installed all of them, otherwise you can install them in your conda environment with:
 
    conda install pandas
+   
    conda install -c intel scikit-learn
+   
    conda install -c anaconda statsmodels 
+   
    conda install -c bioconda bioinfokit 
+   
    conda install -c conda-forge matplotlib-venn
+   
    conda install -c conda-forge adjusttext
+   
    conda install tabulate
+   
    conda install -c conda-forge textwrap3
+   
    conda upgrade bioinfokit
 
 ## Usage
